@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\puzzle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\puzzle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\perfil.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\pedidos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\pedidos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\cupones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\cupones.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\menuprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\cupones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\cupones.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\menuprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\timetravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:timetravel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\personaliza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\personaliza.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|c:\\users\\dhasc\\onedrive\\escritorio\\timetravel\\paginas\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D3EF80DA-76B0-47A0-9F9A-63A5D8681CA7}|TimeTravel.csproj|solutionrelative:paginas\\inicio.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Puzzle.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Puzzle.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Puzzle.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Puzzle.xaml",
+              "RelativeToolTip": "Paginas\\Puzzle.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T22:30:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Perfil.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Perfil.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Perfil.xaml",
+              "RelativeToolTip": "Paginas\\Perfil.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T21:41:14.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pedidos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Pedidos.xaml.cs",
+              "RelativeDocumentMoniker": "Paginas\\Pedidos.xaml.cs",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Pedidos.xaml.cs",
+              "RelativeToolTip": "Paginas\\Pedidos.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:59:28.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pedidos.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Pedidos.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Pedidos.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Pedidos.xaml",
+              "RelativeToolTip": "Paginas\\Pedidos.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T20:59:22.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cupones.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Cupones.xaml.cs",
+              "RelativeDocumentMoniker": "Paginas\\Cupones.xaml.cs",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Cupones.xaml.cs",
+              "RelativeToolTip": "Paginas\\Cupones.xaml.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T20:15:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cupones.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Cupones.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Cupones.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Cupones.xaml",
+              "RelativeToolTip": "Paginas\\Cupones.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T20:12:05.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T15:54:41.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T14:00:01.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\MenuPrincipal.xaml",
+              "RelativeDocumentMoniker": "Paginas\\MenuPrincipal.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\MenuPrincipal.xaml",
+              "RelativeToolTip": "Paginas\\MenuPrincipal.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T13:52:57.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TimeTravel.csproj",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\TimeTravel.csproj",
+              "RelativeDocumentMoniker": "TimeTravel.csproj",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\TimeTravel.csproj",
+              "RelativeToolTip": "TimeTravel.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAACBjwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T14:25:55.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\MenuPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Paginas\\MenuPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\MenuPrincipal.xaml.cs",
+              "RelativeToolTip": "Paginas\\MenuPrincipal.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:00:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Personaliza.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Personaliza.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Personaliza.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Personaliza.xaml",
+              "RelativeToolTip": "Paginas\\Personaliza.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T15:01:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T13:59:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Inicio.xaml",
+              "DocumentMoniker": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Inicio.xaml",
+              "RelativeDocumentMoniker": "Paginas\\Inicio.xaml",
+              "ToolTip": "C:\\Users\\dhasc\\OneDrive\\Escritorio\\TimeTravel\\Paginas\\Inicio.xaml",
+              "RelativeToolTip": "Paginas\\Inicio.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-23T13:52:36.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

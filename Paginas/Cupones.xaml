@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeTravel.Paginas.Cupones"
+             BackgroundColor="White">
+
+    <Grid RowDefinitions="Auto, *, Auto" Padding="10">
+        
+        <Image Source="icon_m.png" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center"  HeightRequest="50" WidthRequest="50"/>
+        
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout x:Name="CuponList">
+                <!-- Aquí se añadirán los cupones -->
+            </VerticalStackLayout>
+        </ScrollView>
+        <Button
+            x:Name="CuponCreator"
+            Grid.Row="2"
+            Text="New Cupon" 
+            Clicked="OnCuponCreatorClicked"
+            HorizontalOptions="Fill" />
+    </Grid>
+            
+</ContentPage>

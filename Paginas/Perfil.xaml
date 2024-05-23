@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeTravel.Paginas.Perfil"
+             BackgroundColor="White">
+    <ScrollView>
+        <Grid Padding="10" RowDefinitions="Auto, Auto, *" ColumnDefinitions="*">
+
+            <Image Source="icon_m.png" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center"  HeightRequest="50" WidthRequest="50"/>
+
+            <!-- Imagen centrada -->
+            <Image Grid.Row="1"
+                   Source="hombre.png"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   HeightRequest="150"
+                   WidthRequest="150"
+                   Margin="0,20" />
+
+            <!-- Información del perfil -->
+            <Grid Grid.Row="2"
+                  Margin="0,20"
+                  Padding="10"
+                  RowDefinitions="Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto, Auto"
+                  ColumnDefinitions="Auto, *"
+                  BackgroundColor="LightGray"
+                  ColumnSpacing="10"
+                  RowSpacing="10">
+
+                <!-- Nombres -->
+                <Label Text="Nombres:"
+                       FontAttributes="Bold"
+                       Grid.Row="0"
+                       Grid.Column="0" />
+                <Label Text="Juan Carlos"
+                       Grid.Row="0"
+                       Grid.Column="1" />
+
+                <!-- Apellidos -->
+                <Label Text="Apellidos:"
+                       FontAttributes="Bold"
+                       Grid.Row="1"
+                       Grid.Column="0" />
+                <Label Text="Pérez García"
+                       Grid.Row="1"
+                       Grid.Column="1" />
+
+                <!-- Número de Teléfono -->
+                <Label Text="Número de Teléfono:"
+                       FontAttributes="Bold"
+                       Grid.Row="2"
+                       Grid.Column="0" />
+                <Label Text="+34 123 456 789"
+                       Grid.Row="2"
+                       Grid.Column="1" />
+
+                <!-- Correo -->
+                <Label Text="Correo:"
+                       FontAttributes="Bold"
+                       Grid.Row="3"
+                       Grid.Column="0" />
+                <Label Text="juan.perez@example.com"
+                       Grid.Row="3"
+                       Grid.Column="1" />
+
+                <!-- Dirección -->
+                <Label Text="Dirección:"
+                       FontAttributes="Bold"
+                       Grid.Row="4"
+                       Grid.Column="0" />
+                <Label Text="Calle Falsa 123, Bogotá, Colombia"
+                       Grid.Row="4"
+                       Grid.Column="1" />
+
+                <!-- Tipo de Tarjeta Asociada -->
+                <Label Text="Tipo de Tarjeta Asociada:"
+                       FontAttributes="Bold"
+                       Grid.Row="5"
+                       Grid.Column="0" />
+                <Label Text="Visa"
+                       Grid.Row="5"
+                       Grid.Column="1" />
+
+                <!-- Fecha de Nacimiento -->
+                <Label Text="Fecha de Nacimiento:"
+                       FontAttributes="Bold"
+                       Grid.Row="6"
+                       Grid.Column="0" />
+                <Label Text="01/01/1980"
+                       Grid.Row="6"
+                       Grid.Column="1" />
+
+                <!-- Género -->
+                <Label Text="Género:"
+                       FontAttributes="Bold"
+                       Grid.Row="7"
+                       Grid.Column="0" />
+                <Label Text="Masculino"
+                       Grid.Row="7"
+                       Grid.Column="1" />
+
+                <!-- Nacionalidad -->
+                <Label Text="Nacionalidad:"
+                       FontAttributes="Bold"
+                       Grid.Row="8"
+                       Grid.Column="0" />
+                <Label Text="Colombiana"
+                       Grid.Row="8"
+                       Grid.Column="1" />
+
+                <!-- Estado Civil -->
+                <Label Text="Estado Civil:"
+                       FontAttributes="Bold"
+                       Grid.Row="9"
+                       Grid.Column="0" />
+                <Label Text="Casado"
+                       Grid.Row="9"
+                       Grid.Column="1" />
+            </Grid>
+        </Grid>
+    </ScrollView>
+</ContentPage>

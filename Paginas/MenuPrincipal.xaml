@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeTravel.Paginas.MenuPrincipal"
+             BackgroundColor="White">
+    <ScrollView>
+        <Grid RowDefinitions="Auto, Auto, 30, 50, 220, 50, Auto" Padding="10" AnchorY="5">
+
+            <!-- Primera fila: Imagen centrada llamada logo.png -->
+            <Image Source="icon_m.png" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center"  HeightRequest="50" WidthRequest="50"/>
+
+            <!-- Segunda fila: Carrusel con 6 imágenes -->
+
+            <CarouselView x:Name="CarouselView" Grid.Row="1" IndicatorView="indicatorView">
+                <CarouselView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                        <x:String>imagen1.png</x:String>
+                        <x:String>imagen1.png</x:String>
+                        <x:String>imagen1.png</x:String>
+                        <x:String>imagen1.png</x:String>
+                        <x:String>imagen1.png</x:String>
+                        <x:String>imagen1.png</x:String>
+                    </x:Array>
+                </CarouselView.ItemsSource>
+                <CarouselView.ItemTemplate>
+                    <DataTemplate>
+                        <Image Source="{Binding}" Aspect="AspectFill"/>
+                    </DataTemplate>
+                </CarouselView.ItemTemplate>
+            </CarouselView>
+
+            <IndicatorView
+                x:Name="indicatorView"
+                Grid.Row="2"
+                HorizontalOptions="Center"
+                IndicatorColor="#616161"
+                IndicatorSize="8"
+                SelectedIndicatorColor="#fec006"
+                VerticalOptions="Center"/>
+
+
+            <!-- Tercera fila: Label con "Lo Nuevo de McDonald's" -->
+            <Label Text="Lo Nuevo de McDonald's" 
+                   Grid.Row="3" 
+                   FontAttributes="Bold" 
+                   VerticalTextAlignment="Center"
+                   FontSize="20" />
+
+            <!-- Cuarta fila: Imagen botón que redirige a la página "Personaliza" -->
+            
+            <ImageButton Source="travel_img.png" 
+                            Grid.Row="4"
+                            Clicked="OnPersonalizaClicked" />
+            
+
+            <!-- Quinta fila: Label con "¡Disfruta tu cajita feliz!" -->
+            <Label Text="¡Disfruta tu cajita feliz!"
+                   Grid.Row="5" 
+                   VerticalTextAlignment="Center"
+                   FontAttributes="Bold"
+                   FontSize="20" />
+
+            <!-- Sexta fila: Imagen -->
+
+            <Image Source="ultima_imagen.png" Grid.Row="6" />
+            
+            
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

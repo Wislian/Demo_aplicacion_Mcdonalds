@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TimeTravel.Paginas.Pedidos"
+             BackgroundColor="White">
+    <Grid RowDefinitions="Auto, *, Auto" Padding="10">
+        
+        <Image Source="icon_m.png" Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center"  HeightRequest="50" WidthRequest="50"/>
+        
+        <ScrollView Grid.Row="1">
+            <VerticalStackLayout x:Name="PedidoList">
+                <!-- Aquí se añadirán los pedidos -->
+            </VerticalStackLayout>
+        </ScrollView>
+        <Button
+            x:Name="PedidoCreator"
+            Grid.Row="2"
+            Text="New Pedido" 
+            Clicked="OnPedidoCreatorClicked"
+            HorizontalOptions="Fill" />
+    </Grid>
+</ContentPage>
